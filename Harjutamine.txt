@@ -1,2 +1,3 @@
 Github on koht kus sa saad hostida hoidlaid.
 Githubi kasutavad peamiselt programeerida.
+Github on koht kus sa saad hostida koodi ja lihtsalt andmeid.
