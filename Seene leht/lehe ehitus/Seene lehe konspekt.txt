@@ -1,0 +1,17 @@
+Teema: Seened
+
+Lehed:
+   Pea Leht;
+      seene lehe sissejuhatus kus räägib selle lehe ehitusest ja miks see tehti jne.
+
+   Seene Ehitus;
+      leht mis räägib seene ehitusest ja viib põhjalikuma infoga lehele.
+
+   Seene liigid;
+      leht mis loendab paljud seened mis on leitud ja üleskirjutatud ja viib põhjalikuma infoga lehele.
+
+   Seene elu viis ja paigad;
+      leht mis lühidalt kirjeldab kuidas seened elavad ja kus nad elavad.
+
+   Seened kunstis;
+      leht mis räägib seene kunstist ja selle ilust.
